@@ -1,5 +1,13 @@
 # ✈️ Airline Revenue Operations Analytics
 
+An end-to-end data science and business intelligence project analyzing U.S. airline operations data to identify route-level risk, validate operational differences using hypothesis testing, and build stakeholder-friendly dashboard views.
+
+## 📌 Project Highlights
+- Cleaned and analyzed 1.65M+ flight records from BTS On-Time Performance data
+- Performed EDA, hypothesis testing, and regression modeling
+- Built a route-level risk framework using delay and cancellation behavior
+- Created an interactive BI dashboard for operational monitoring
+
 ## 📌 Project Overview
 
 Airlines operate in a highly complex environment where operational inefficiencies such as delays and cancellations can significantly impact revenue and customer experience.
@@ -130,3 +138,7 @@ The goal of this project is to:
 This project demonstrates how operational data can be transformed into actionable insights using data science, statistical analysis, and business thinking to identify inefficiencies and improve decision-making.
 
 ---
+
+## Interactive Dashboard
+
+Tableau Public Dashboard: [View the dashboard here](https://public.tableau.com/views/Book1_17753627281980/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

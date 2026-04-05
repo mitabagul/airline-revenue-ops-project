@@ -1,0 +1,1 @@
+This folder stores generated figures, tables, and dashboard screenshots for the project.
