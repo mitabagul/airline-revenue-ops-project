@@ -36,6 +36,15 @@ The goal of this project is to:
 
 ---
 
+## 🚀 Repository Structure
+
+- `notebooks/` – end-to-end analysis notebook
+- `src/` – helper scripts and reusable functions
+- `outputs/figures/` – exported charts and dashboard visuals
+- `outputs/tables/` – exported summary tables
+
+---
+
 ## 🧠 Methodology
 
 ### 1. Data Preparation
@@ -141,4 +150,10 @@ This project demonstrates how operational data can be transformed into actionabl
 
 ## Interactive Dashboard
 
+The dashboard allows stakeholders to monitor operational performance, review delay distributions, and analyze route-level inefficiencies through interactive filtering.
 Tableau Public Dashboard: [View the dashboard here](https://public.tableau.com/views/Book1_17753627281980/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Dashboard Preview
+
+![Departure Delay Distribution](outputs/figures/departure_delay_distribution.png)
+![Top High-Volume Routes by Average Departure Delay](outputs/figures/top_10_high-volume_routes_by_avg_dep_delay.png)
