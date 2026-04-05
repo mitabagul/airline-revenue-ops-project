@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Large/raw data
+data/raw/
+data/processed/
+
+# Optional: exclude big processed files if needed later
+# data/processed/
+
+# Tableau temp files if any
+*.tmp
