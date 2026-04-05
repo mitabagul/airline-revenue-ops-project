@@ -1,1 +1,1 @@
-This folder stores generated figures, tables, and dashboard screenshots for the project.
+This folder stores reusable Python helper scripts and utility functions for the project.
